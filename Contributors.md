@@ -7896,5 +7896,6 @@ Stephen kihuni
 - [Manuel Esteban]~(https://github.com/Manuekle)
 - [Ian Knopke](https://github.com/ekponk)
 - [Manish Kandepalli](https://github.com/manish295)
-- [Bayu Afif Nuranto](https://github.com/bayunuranto14)
+- [Bayu Afif Nuranto](https://github.com/bayunuranto14
+- [Pranav Kansal](https://github.com/k9pranav)
 <!-- prettier-ignore-end -->
